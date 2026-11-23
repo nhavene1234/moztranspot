@@ -1,0 +1,3 @@
+qrcode-generator 1.4.4 (MIT) - Kazuhiko Arase - gerar QR
+jsQR 1.4.0 (Apache-2.0) - Cosmo Wolfe - ler QR pela câmara
+Incluídos localmente para o sistema funcionar sem internet.

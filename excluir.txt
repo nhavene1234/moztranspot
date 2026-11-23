@@ -1,0 +1,4 @@
+instalar.bat
+instalar.sh
+excluir.txt
+README.md
